@@ -25,7 +25,6 @@ function List({ todos, setTodos, hide }) {
     setTodos(
       todos.filter((todo2) => parseInt(todo2.id) !== parseInt(e.target.id))
     );
-    console.log(e.target.id);
   };
 
   return (
