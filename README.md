@@ -4,6 +4,7 @@
 - Component kullanımı
 - Props oluşturma
 - States ve Lifecycle kullanımı
+- localStorage kullanımı
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
