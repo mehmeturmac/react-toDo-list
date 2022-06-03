@@ -1,4 +1,4 @@
-# React-Odev2
+# React-toDo-list
 ## React kullanarak To-Do List Yapmak
 ### Ödev içerisinde işlenen konular;
 - Component kullanımı
