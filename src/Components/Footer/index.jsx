@@ -44,17 +44,22 @@ function Footer({ todos, setTodos, setHide }) {
       {/* Yukarıda oluştuğumuz select state'inin değerine göre butonların classlarını belirliyoruz. */}
       <ul className="filters">
         <li>
-          <a className={select[0]} id="All" onClick={selectedButton}>
+          <a href="" className={select[0]} id="All" onClick={selectedButton}>
             All
           </a>
         </li>
         <li>
-          <a className={select[1]} id="Active" onClick={selectedButton}>
+          <a href="" className={select[1]} id="Active" onClick={selectedButton}>
             Active
           </a>
         </li>
         <li>
-          <a className={select[2]} id="Completed" onClick={selectedButton}>
+          <a
+            href=""
+            className={select[2]}
+            id="Completed"
+            onClick={selectedButton}
+          >
             Completed
           </a>
         </li>
