@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Odev2/static/css/main.fe7e7574.css",
-    "main.js": "/React-Odev2/static/js/main.0292facf.js",
-    "static/js/787.8587b3ae.chunk.js": "/React-Odev2/static/js/787.8587b3ae.chunk.js",
-    "index.html": "/React-Odev2/index.html",
-    "main.fe7e7574.css.map": "/React-Odev2/static/css/main.fe7e7574.css.map",
-    "main.0292facf.js.map": "/React-Odev2/static/js/main.0292facf.js.map",
-    "787.8587b3ae.chunk.js.map": "/React-Odev2/static/js/787.8587b3ae.chunk.js.map"
+    "main.css": "/react-toDo-list/static/css/main.fe7e7574.css",
+    "main.js": "/react-toDo-list/static/js/main.8990c6b1.js",
+    "static/js/787.98f7da45.chunk.js": "/react-toDo-list/static/js/787.98f7da45.chunk.js",
+    "index.html": "/react-toDo-list/index.html",
+    "main.fe7e7574.css.map": "/react-toDo-list/static/css/main.fe7e7574.css.map",
+    "main.8990c6b1.js.map": "/react-toDo-list/static/js/main.8990c6b1.js.map",
+    "787.98f7da45.chunk.js.map": "/react-toDo-list/static/js/787.98f7da45.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe7e7574.css",
-    "static/js/main.0292facf.js"
+    "static/js/main.8990c6b1.js"
   ]
 }
