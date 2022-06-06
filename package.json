@@ -1,6 +1,6 @@
 {
-  "name": "react-odev2",
-  "homepage": "https://mehmeturmac.github.io/React-Odev2",
+  "name": "react-todo-list",
+  "homepage": "https://mehmeturmac.github.io/react-toDo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
